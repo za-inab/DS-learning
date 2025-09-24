@@ -21,3 +21,12 @@ https://www.youtube.com/watch?v=OByl4RJxnKA
 https://www.youtube.com/watch?v=akClB1J6b28 ===> Best explaination of bayes theorem  
 -> Exp of bayes theorem
 ![alt text](image-3.png)
+
+
+discrete Random Variables: 
+
+bernoulli, 
+
+binomial, 
+
+poisson
