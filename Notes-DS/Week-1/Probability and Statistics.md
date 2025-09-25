@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=akClB1J6b28 ===> Best explaination of bayes theo
 ![alt text](image-3.png)
 
 
-discrete Random Variables: 
+discrete and Continuous Random Variables:  https://www.youtube.com/watch?v=dOr0NKyD31Q
 
 bernoulli, 
 
