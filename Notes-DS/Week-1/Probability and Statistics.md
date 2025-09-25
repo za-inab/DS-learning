@@ -21,3 +21,13 @@ https://www.youtube.com/watch?v=OByl4RJxnKA
 https://www.youtube.com/watch?v=akClB1J6b28 ===> Best explaination of bayes theorem  
 -> Exp of bayes theorem
 ![alt text](image-3.png)
+
+
+discrete and Continuous Random Variables:  https://www.youtube.com/watch?v=dOr0NKyD31Q
+
+
+Bernoulli Discrete Random Variable:  https://www.youtube.com/watch?v=Tc6g-Y-l0Rg
+
+Binomial Discrete Random Variable : https://www.youtube.com/watch?v=Tc6g-Y-l0Rg
+
+Poisson Discrete Random Variable:
