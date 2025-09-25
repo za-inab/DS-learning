@@ -25,8 +25,9 @@ https://www.youtube.com/watch?v=akClB1J6b28 ===> Best explaination of bayes theo
 
 discrete and Continuous Random Variables:  https://www.youtube.com/watch?v=dOr0NKyD31Q
 
-bernoulli, 
 
-binomial, 
+Bernoulli Discrete Random Variable:  https://www.youtube.com/watch?v=Tc6g-Y-l0Rg
 
-poisson
+Binomial Discrete Random Variable : https://www.youtube.com/watch?v=Tc6g-Y-l0Rg
+
+Poisson Discrete Random Variable:
