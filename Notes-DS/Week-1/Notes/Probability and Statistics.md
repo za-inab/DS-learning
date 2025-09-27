@@ -30,4 +30,4 @@ Bernoulli Discrete Random Variable:  https://www.youtube.com/watch?v=Tc6g-Y-l0Rg
 
 Binomial Discrete Random Variable : https://www.youtube.com/watch?v=Tc6g-Y-l0Rg
 
-Poisson Discrete Random Variable:
+Poisson Discrete Random Variable: https://www.youtube.com/watch?v=7vXLH2H6fZw
